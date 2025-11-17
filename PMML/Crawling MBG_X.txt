@@ -1,0 +1,933 @@
+Tweet Analysis Output
+=======================================
+
+Row 1
+Date       : 2025-11-16 18:10:46+00:00
+Tweet ID   : 1990120374881931754
+Text (ID)  : Sempat Ditutup karena Ratusan Siswa Diduga Keracunan, Pemkab Sleman Pastikan 2 SPPG Kembali Beroperasi
+
+https://t.co/rMd0o8uYQH
+
+#sampang #sppg #mbg #makanbergizigratis #keracunan #kabarterdepan
+Sentiment  : negative
+Prob       : 0.5125083327293396
+---------------------------------------
+
+Row 2
+Date       : 2025-11-16 20:42:20+00:00
+Tweet ID   : 1990158517224006042
+Text (ID)  : Mang pantas ya mentri buat statment bgini untuk rakyat. 
+Gak sadar apa gaji die buat makan keluarga besarnya dari pajak orang orang miskin yang "IQ nya ketinggalan "
+@prabowo  @Gerindra #MBGJalanTerus  #mbg  @ZUL_Hasan  sadar dong pak! Jangan jadi iblis! https://t.co/pv4cGuZPiV
+Sentiment  : negative
+Prob       : 0.7817352414131165
+---------------------------------------
+
+Row 3
+Date       : 2025-11-16 22:00:00+00:00
+Tweet ID   : 1990178063683141645
+Text (ID)  : 📈 Ketika permintaan naik tapi pasokan tak bertambah, harga pun terdorong naik. Apakah ini efek samping dari kebijakan sosial yang belum siap di lapangan? 🤔
+
+#inflasi #inflasipangan #harganaik #sembako #hargabahanpangan #mbg #makanbergizi #makanbergizigratis #makangratis https://t.co/gpQGmO4SyR
+Sentiment  : negative
+Prob       : 0.5940688848495483
+---------------------------------------
+
+Row 4
+Date       : 2025-11-16 23:20:14+00:00
+Tweet ID   : 1990198254307574055
+Text (ID)  : Sbg PELAYAN RAKYAT harusnya berhati-hati dlm berbicara dan bertindak. 
+
+Nantik yg kena getah/dampak MBG ya anak sekolahan yg belum paham apa-apa. kasian mereka masa jd alat uji coba?
+
+Tolong programnya diperhatikan dg lebih baik lagi.
+#AhliGiziHarusLulusanGizi
+#AhliGizi
+#MBG https://t.co/t94DUd10sQ
+Sentiment  : negative
+Prob       : 0.8110818862915039
+---------------------------------------
+
+Row 5
+Date       : 2025-11-16 23:58:37+00:00
+Tweet ID   : 1990207913592541606
+Text (ID)  : @tempodotco Makan Bergizi Gratis (MBG) adalah program pemerintah yang akan mencetak generasi emas di masa depan
+#MBG #IndonesiaEmas #GenerasiEmas #MakanBergiziGratis @tempodotco https://t.co/1hAm8C1WLX
+Sentiment  : positive
+Prob       : 0.5950782299041748
+---------------------------------------
+
+Row 6
+Date       : 2025-11-16 23:59:32+00:00
+Tweet ID   : 1990208143448752596
+Text (ID)  : @negativisme Makan Bergizi Gratis (MBG) adalah program pemerintah yang akan mencetak generasi emas di masa depan
+#MBG #IndonesiaEmas #GenerasiEmas #MakanBergiziGratis @negativisme https://t.co/thWEHuAeEV
+Sentiment  : positive
+Prob       : 0.590652346611023
+---------------------------------------
+
+Row 7
+Date       : 2025-11-17 00:00:54+00:00
+Tweet ID   : 1990208488610615399
+Text (ID)  : MBG MAKANNN SAYANGGG
+mie ayam????
+#mbg https://t.co/inERvPH3Qm
+Sentiment  : neutral
+Prob       : 0.4572155773639679
+---------------------------------------
+
+Row 8
+Date       : 2025-11-17 00:01:13+00:00
+Tweet ID   : 1990208566574375306
+Text (ID)  : @kangdede78 Makan Bergizi Gratis (MBG) adalah program pemerintah yang akan mencetak generasi emas di masa depan
+#MBG #IndonesiaEmas #GenerasiEmas #MakanBergiziGratis @kangdede78 https://t.co/rRKgRu8r31
+Sentiment  : positive
+Prob       : 0.6240120530128479
+---------------------------------------
+
+Row 9
+Date       : 2025-11-17 00:02:49+00:00
+Tweet ID   : 1990208971857355046
+Text (ID)  : @cutsarina5 Makan Bergizi Gratis (MBG) adalah program pemerintah yang akan mencetak generasi emas di masa depan
+#MBG #IndonesiaEmas #GenerasiEmas #MakanBergiziGratis @cutsarina5 https://t.co/9J46pDPmd5
+Sentiment  : positive
+Prob       : 0.6226157546043396
+---------------------------------------
+
+Row 10
+Date       : 2025-11-17 00:04:32+00:00
+Tweet ID   : 1990209402000044527
+Text (ID)  : @AntoniusCDN @Urrangawak @CakKhum @FirzaHusain @NgkongRoses @seruanhl Makan Bergizi Gratis (MBG) adalah program pemerintah yang akan mencetak generasi emas di masa depan
+#MBG #IndonesiaEmas #GenerasiEmas #MakanBergiziGratis @AntoniusCDN https://t.co/7IasT13qjR
+Sentiment  : positive
+Prob       : 0.6284043192863464
+---------------------------------------
+
+Row 11
+Date       : 2025-11-17 00:06:57+00:00
+Tweet ID   : 1990210012577517807
+Text (ID)  : @03__nakula Makan Bergizi Gratis (MBG) adalah program pemerintah yang akan mencetak generasi emas di masa depan
+#MBG #IndonesiaEmas #GenerasiEmas #MakanBergiziGratis @03__nakula https://t.co/BU8BHr35zJ
+Sentiment  : positive
+Prob       : 0.6090437769889832
+---------------------------------------
+
+Row 12
+Date       : 2025-11-17 00:10:33+00:00
+Tweet ID   : 1990210916005355900
+Text (ID)  : @ferizandra Makan Bergizi Gratis (MBG) adalah program pemerintah yang akan mencetak generasi emas di masa depan
+#MBG #IndonesiaEmas #GenerasiEmas #MakanBergiziGratis @ferizandra https://t.co/ODejJ4lkwu
+Sentiment  : positive
+Prob       : 0.6358852982521057
+---------------------------------------
+
+Row 13
+Date       : 2025-11-17 00:12:55+00:00
+Tweet ID   : 1990211511973998873
+Text (ID)  : @tekarok007 Makan Bergizi Gratis (MBG) adalah program pemerintah yang akan mencetak generasi emas di masa depan
+#MBG #IndonesiaEmas #GenerasiEmas #MakanBergiziGratis @tekarok007 https://t.co/u0peXolrtb
+Sentiment  : positive
+Prob       : 0.6136482954025269
+---------------------------------------
+
+Row 14
+Date       : 2025-11-17 00:14:09+00:00
+Tweet ID   : 1990211822306402459
+Text (ID)  : Kualitas makanan MBG tetap di jaga agar anak sehat #MBG #MBGKalteng #Kalteng https://t.co/R43i8Jgk0w
+Sentiment  : neutral
+Prob       : 0.5571703314781189
+---------------------------------------
+
+Row 15
+Date       : 2025-11-17 00:19:18+00:00
+Tweet ID   : 1990213120326017041
+Text (ID)  : #MBG nya Opah @ZUL_Hasan @airlangga_hrt @golkarpedia @kabargolkarnews @PartaiPAN @PartaiPANDPC @DPR_RI @DPDRI @setkabgoid @KemensetnegRI https://t.co/r2lfcoGo5w https://t.co/awobnKI09h
+Sentiment  : neutral
+Prob       : 0.7188063263893127
+---------------------------------------
+
+Row 16
+Date       : 2025-11-17 00:20:38+00:00
+Tweet ID   : 1990213453068501133
+Text (ID)  : #MBG bagi pejabat berarti ... https://t.co/6pK6XlJjzy
+Sentiment  : neutral
+Prob       : 0.7363624572753906
+---------------------------------------
+
+Row 17
+Date       : 2025-11-17 00:55:57+00:00
+Tweet ID   : 1990222341687910706
+Text (ID)  : BERITA DUKA PAGI INI
+
+Nasib teman teman SGz akan dibuat mirip seperti SKM (K3) atau S1 K3 dimana dengan modal sertifikasi 3 bulan ala BNSP maka "siapapun" bisa jadi "Ahli Gizi" atau "Pengawas Gizi" seperti statemen dibawah ini....
+
+#MBG
+
+Source IG: wira.adikaraa https://t.co/SupForwhMA
+Sentiment  : neutral
+Prob       : 0.4889029264450073
+---------------------------------------
+
+Row 18
+Date       : 2025-11-17 01:15:05+00:00
+Tweet ID   : 1990227155087937774
+Text (ID)  : MBG hadir sebagai langkah konkret membangun generasi sehat. Mari kita dukung bersama
+#MBG #DukungMBG #IndonesiaEmas2045 https://t.co/IJdNZExc4S
+Sentiment  : positive
+Prob       : 0.7140764594078064
+---------------------------------------
+
+Row 19
+Date       : 2025-11-17 01:15:08+00:00
+Tweet ID   : 1990227170002948564
+Text (ID)  : MBG hadir sebagai langkah konkret membangun generasi sehat. Mari kita dukung bersama
+#MBG #DukungMBG #IndonesiaEmas2045 https://t.co/ZrgU0eZtGx
+Sentiment  : positive
+Prob       : 0.7011174559593201
+---------------------------------------
+
+Row 20
+Date       : 2025-11-17 01:15:13+00:00
+Tweet ID   : 1990227188906639690
+Text (ID)  : MBG hadir sebagai langkah konkret membangun generasi sehat. Mari kita dukung bersama
+#MBG #DukungMBG #IndonesiaEmas2045 https://t.co/9nXR19m3aF
+Sentiment  : positive
+Prob       : 0.7128876447677612
+---------------------------------------
+
+Row 21
+Date       : 2025-11-17 01:15:17+00:00
+Tweet ID   : 1990227209043493173
+Text (ID)  : MBG hadir sebagai langkah konkret membangun generasi sehat. Mari kita dukung bersama
+#MBG #DukungMBG #IndonesiaEmas2045 https://t.co/hxG4Z18rtC
+Sentiment  : positive
+Prob       : 0.7102745175361633
+---------------------------------------
+
+Row 22
+Date       : 2025-11-17 01:28:36+00:00
+Tweet ID   : 1990230560497918402
+Text (ID)  : Makan bergizi bukan kemewahan, tapi kebutuhan! 🍛 Bersama wujudkan Indonesia sehat dan berdaya. #MBG https://t.co/WlWjQLap25
+Sentiment  : positive
+Prob       : 0.6158486008644104
+---------------------------------------
+
+Row 23
+Date       : 2025-11-17 01:28:39+00:00
+Tweet ID   : 1990230570643927146
+Text (ID)  : Makan bergizi bukan kemewahan, tapi kebutuhan! 🍛 Bersama wujudkan Indonesia sehat dan berdaya. #MBG https://t.co/A93Og2r9xa
+Sentiment  : positive
+Prob       : 0.6063600778579712
+---------------------------------------
+
+Row 24
+Date       : 2025-11-17 01:28:41+00:00
+Tweet ID   : 1990230581255471540
+Text (ID)  : Makan bergizi bukan kemewahan, tapi kebutuhan! 🍛 Bersama wujudkan Indonesia sehat dan berdaya. #MBG https://t.co/clF1wYTSRu
+Sentiment  : positive
+Prob       : 0.6031471490859985
+---------------------------------------
+
+Row 25
+Date       : 2025-11-17 01:28:44+00:00
+Tweet ID   : 1990230591766438252
+Text (ID)  : Makan bergizi bukan kemewahan, tapi kebutuhan! 🍛 Bersama wujudkan Indonesia sehat dan berdaya. #MBG https://t.co/S3sBHlxgff
+Sentiment  : positive
+Prob       : 0.6063703894615173
+---------------------------------------
+
+Row 26
+Date       : 2025-11-17 01:51:00+00:00
+Tweet ID   : 1990236195838996655
+Text (ID)  : Dengan MBG, anak-anak mendapat kesempatan berkembang secara maksimal. #mbg #indonesiaemas https://t.co/ZePYsIm0tu
+Sentiment  : positive
+Prob       : 0.6381675004959106
+---------------------------------------
+
+Row 27
+Date       : 2025-11-17 01:51:01+00:00
+Tweet ID   : 1990236200318500994
+Text (ID)  : MBG mendukung upaya nasional mengurangi stunting dan kekurangan nutrisi. #mbg #indonesiaemas https://t.co/3Ep0zOt3UK
+Sentiment  : positive
+Prob       : 0.5038756132125854
+---------------------------------------
+
+Row 28
+Date       : 2025-11-17 01:51:02+00:00
+Tweet ID   : 1990236204672168048
+Text (ID)  : Makanan bergizi dari MBG menjadi dorongan penting bagi prestasi anak. #mbg #indonesiaemas https://t.co/CSO9PStxsH
+Sentiment  : positive
+Prob       : 0.7127293348312378
+---------------------------------------
+
+Row 29
+Date       : 2025-11-17 01:51:03+00:00
+Tweet ID   : 1990236208329548228
+Text (ID)  : MBG mendorong kebiasaan makan sehat sejak usia dini. #mbg #indonesiaemas https://t.co/AS2L9KPoTr
+Sentiment  : neutral
+Prob       : 0.4810575246810913
+---------------------------------------
+
+Row 30
+Date       : 2025-11-17 01:51:04+00:00
+Tweet ID   : 1990236211995410537
+Text (ID)  : Program ini membantu keluarga meringankan beban pemenuhan gizi harian anak. #mbg #indonesiaemas https://t.co/AhUlC2MfNl
+Sentiment  : positive
+Prob       : 0.575754702091217
+---------------------------------------
+
+Row 31
+Date       : 2025-11-17 01:51:05+00:00
+Tweet ID   : 1990236215518609919
+Text (ID)  : MBG hadir untuk membangun generasi yang lebih sehat, kuat, dan cerdas. #mbg #indonesiaemas https://t.co/egUOTVQXqt
+Sentiment  : positive
+Prob       : 0.6178297400474548
+---------------------------------------
+
+Row 32
+Date       : 2025-11-17 01:51:06+00:00
+Tweet ID   : 1990236221159907561
+Text (ID)  : Makan Bergizi Gratis mendukung fokus belajar anak sepanjang hari. #mbg #indonesiaemas https://t.co/wr50SaZDx2
+Sentiment  : positive
+Prob       : 0.657459557056427
+---------------------------------------
+
+Row 33
+Date       : 2025-11-17 01:51:07+00:00
+Tweet ID   : 1990236225903702514
+Text (ID)  : Dengan MBG, sekolah menjadi tempat yang lebih sehat dan produktif. #mbg #indonesiaemas https://t.co/aBSyFOZc56
+Sentiment  : positive
+Prob       : 0.605091392993927
+---------------------------------------
+
+Row 34
+Date       : 2025-11-17 01:51:09+00:00
+Tweet ID   : 1990236231956099481
+Text (ID)  : Program MBG membantu mengurangi kasus kekurangan gizi di kalangan pelajar. #mbg #indonesiaemas https://t.co/G3p7HIwgfT
+Sentiment  : neutral
+Prob       : 0.4949738681316376
+---------------------------------------
+
+Row 35
+Date       : 2025-11-17 01:51:10+00:00
+Tweet ID   : 1990236237119258819
+Text (ID)  : MBG memastikan setiap anak mendapat asupan gizi seimbang untuk tumbuh optimal. #mbg #indonesiaemas https://t.co/KMeaMk8QPw
+Sentiment  : positive
+Prob       : 0.49662718176841736
+---------------------------------------
+
+Row 36
+Date       : 2025-11-17 02:16:46+00:00
+Tweet ID   : 1990242678861451353
+Text (ID)  : Menu MBG di SD adiku pagi ini 17 Nov 2025 07.50
+
+#MBG 
+#makanpagi 
+#sederhana https://t.co/efrhN0CTVa
+Sentiment  : neutral
+Prob       : 0.7849463820457458
+---------------------------------------
+
+Row 37
+Date       : 2025-11-17 02:17:12+00:00
+Tweet ID   : 1990242788278173994
+Text (ID)  : @F4h7eza Dari dapur ke masa depan: gizi oke, stunting bye-bye!
+#ProgramGENTING #MBG #GiziKalbar #StuntingMenurun #AnakSehat #KolaborasiPemerintah #AksiGiziKalbar @F4h7eza 
+https://t.co/xVGLn1QkaH
+Sentiment  : neutral
+Prob       : 0.42687588930130005
+---------------------------------------
+
+Row 38
+Date       : 2025-11-17 02:18:20+00:00
+Tweet ID   : 1990243074979910000
+Text (ID)  : @neVerAl0nely___ GENTING jalan, Stunting hilang pelan-pelan!
+#GentingKalbar #CegahStunting #GiziBaik #KolaborasiKalbar #BKKBN #MBG #GenerasiSehat @neVerAl0nely___ 
+https://t.co/xVGLn1QkaH
+Sentiment  : neutral
+Prob       : 0.428081750869751
+---------------------------------------
+
+Row 39
+Date       : 2025-11-17 02:24:40+00:00
+Tweet ID   : 1990244668320498170
+Text (ID)  : MBG hadir sebagai langkah konkret membangun generasi sehat. Mari kita dukung bersama
+#MBG #DukungMBG #IndonesiaEmas2045 https://t.co/SYyL1kfYuB
+Sentiment  : positive
+Prob       : 0.694776713848114
+---------------------------------------
+
+Row 40
+Date       : 2025-11-17 02:24:45+00:00
+Tweet ID   : 1990244687261921786
+Text (ID)  : MBG hadir sebagai langkah konkret membangun generasi sehat. Mari kita dukung bersama
+#MBG #DukungMBG #IndonesiaEmas2045 https://t.co/fAb9bG96dc
+Sentiment  : positive
+Prob       : 0.7173882126808167
+---------------------------------------
+
+Row 41
+Date       : 2025-11-17 02:24:50+00:00
+Tweet ID   : 1990244709835640992
+Text (ID)  : MBG hadir sebagai langkah konkret membangun generasi sehat. Mari kita dukung bersama
+#MBG #DukungMBG #IndonesiaEmas2045 https://t.co/qkL3bC9SjW
+Sentiment  : positive
+Prob       : 0.7032828330993652
+---------------------------------------
+
+Row 42
+Date       : 2025-11-17 02:24:58+00:00
+Tweet ID   : 1990244742865752208
+Text (ID)  : MBG hadir sebagai langkah konkret membangun generasi sehat. Mari kita dukung bersama
+#MBG #DukungMBG #IndonesiaEmas2045 https://t.co/MpV0fC6nnM
+Sentiment  : positive
+Prob       : 0.7129107117652893
+---------------------------------------
+
+Row 43
+Date       : 2025-11-17 02:33:03+00:00
+Tweet ID   : 1990246776860008724
+Text (ID)  : @VRFairyTownship ＃cIuster　＃MBG　🎶🎶🎶🎶🎶🎶
+Sentiment  : neutral
+Prob       : 0.7366417050361633
+---------------------------------------
+
+Row 44
+Date       : 2025-11-17 02:39:25+00:00
+Tweet ID   : 1990248381743353877
+Text (ID)  : "Betapa bermanfaatnya MBG bagi warga sekitar," tulis Hendry 
+
+#gajian #mbg #jawabarat #chef 
+Baca selengkapnya 
+https://t.co/dvuGuTFGCw https://t.co/pxlYBNyqFm
+Sentiment  : positive
+Prob       : 0.6807581186294556
+---------------------------------------
+
+Row 45
+Date       : 2025-11-17 02:49:50+00:00
+Tweet ID   : 1990250999538438299
+Text (ID)  : @VRFairyTownship ＃cIuster　＃MBG
+😭😭😭😭😭😭😭
+Sentiment  : negative
+Prob       : 0.8240078687667847
+---------------------------------------
+
+Row 46
+Date       : 2025-11-17 02:53:41+00:00
+Tweet ID   : 1990251970498822565
+Text (ID)  : tolong gais pro dan kontra kalian mengenai mbg (makanan bergizi)
+#mbg butuh bahan untuk debat
+Sentiment  : neutral
+Prob       : 0.5528882741928101
+---------------------------------------
+
+Row 47
+Date       : 2025-11-17 02:54:30+00:00
+Tweet ID   : 1990252177395466702
+Text (ID)  : Viral Sosok Yasika Aulia Ramadhani, Anak Anggota DPRD Sulsel Kelola 41 Dapur MBG, Usia Baru 20 Tahun
+ 
+https://t.co/ke51QsHOlu lewat @tribunnews #viral #mbg #sulsel #dprd #yasika
+Sentiment  : neutral
+Prob       : 0.7082215547561646
+---------------------------------------
+
+Row 48
+Date       : 2025-11-17 02:56:07+00:00
+Tweet ID   : 1990252583873888271
+Text (ID)  : BGN Pastikan Seluruh Gaji Petugas MBG Cair Pekan Ini Secara Rapel
+
+#bgn #gaji #mbg #rapel 
+
+https://t.co/ZWVnT53doi
+Sentiment  : neutral
+Prob       : 0.6593648195266724
+---------------------------------------
+
+Row 49
+Date       : 2025-11-17 03:01:48+00:00
+Tweet ID   : 1990254012915146984
+Text (ID)  : Data BPS mencatat pengangguran di Sumsel turun signifikan.
+Penguatan ekonomi daerah ikut mendorong tren positif ini—dan program MBG terbukti membuka peluang baru bagi petani, UMKM, hingga tenaga produksi dan distribusi.#DataBPS #SumselMaju #PengangguranTurun #MBG #EkonomiBangkit https://t.co/GUmHAEU655
+Sentiment  : positive
+Prob       : 0.6528902649879456
+---------------------------------------
+
+Row 50
+Date       : 2025-11-17 03:03:50+00:00
+Tweet ID   : 1990254526117585340
+Text (ID)  : Setiap piring makanan bergizi adalah bentuk perhatian sederhana yang membawa dampak besar untuk masa depan anak Indonesia #MBG https://t.co/WlgZnPMCQL
+Sentiment  : positive
+Prob       : 0.677594780921936
+---------------------------------------
+
+Row 51
+Date       : 2025-11-17 03:04:04+00:00
+Tweet ID   : 1990254585383194940
+Text (ID)  : Program MBG terbukti bukan hanya menyehatkan anak bangsa, tapi juga membuka peluang besar untuk meningkatkan konsumsi susu nasional.
+Dengan jutaan porsi yang dibagikan setiap hari, rantai pasok susu—dari peternak, koperasi, hingga industri olahan—ikut terdorong naik.
+#MBG https://t.co/d93Q2MVfas
+Sentiment  : positive
+Prob       : 0.7536843419075012
+---------------------------------------
+
+Row 52
+Date       : 2025-11-17 03:05:11+00:00
+Tweet ID   : 1990254864329531693
+Text (ID)  : Bersama, kita bangun Indonesia yang lebih kuat dengan memastikan gizi merata bagi seluruh anak bangsa
+#MBG #MakanBergiziBangunNegeri #GiziUntukGenerasi #NutrisidanEkonomi https://t.co/atDwbu8mhT
+Sentiment  : positive
+Prob       : 0.5652306079864502
+---------------------------------------
+
+Row 53
+Date       : 2025-11-17 03:05:15+00:00
+Tweet ID   : 1990254880058229216
+Text (ID)  : Gizi untuk Negeri, Langkah untuk Masa Depan. Bersama kita pastikan setiap anak tumbuh sehat, kuat, dan siap menggapai masa depan Indonesia #MBG #MakanBergiziBangunNegeri #GiziUntukGenerasi #NutrisidanEkonomi https://t.co/j4wbhYC9KZ
+Sentiment  : positive
+Prob       : 0.6250681281089783
+---------------------------------------
+
+Row 54
+Date       : 2025-11-17 03:08:26+00:00
+Tweet ID   : 1990255682701164714
+Text (ID)  : Gizi untuk Negeri, Langkah untuk Masa Depan. Bersama kita pastikan setiap anak tumbuh sehat, kuat, dan siap menggapai masa depan Indonesia #MBG #MakanBergiziBangunNegeri #GiziUntukGenerasi #NutrisidanEkonomi https://t.co/C1gbWgpPFl
+Sentiment  : positive
+Prob       : 0.6201252937316895
+---------------------------------------
+
+Row 55
+Date       : 2025-11-17 03:08:26+00:00
+Tweet ID   : 1990255682474717356
+Text (ID)  : Bersama, kita bangun Indonesia yang lebih kuat dengan memastikan gizi merata bagi seluruh anak bangsa
+#MBG #MakanBergiziBangunNegeri #GiziUntukGenerasi #NutrisidanEkonomi https://t.co/zaq6YwJE3b
+Sentiment  : positive
+Prob       : 0.5438293814659119
+---------------------------------------
+
+Row 56
+Date       : 2025-11-17 03:10:07+00:00
+Tweet ID   : 1990256104740385230
+Text (ID)  : MBG hadir sebagai langkah konkret membangun generasi sehat. Mari kita dukung bersama
+#MBG #DukungMBG #IndonesiaEmas2045 https://t.co/E6sKzraupo
+Sentiment  : positive
+Prob       : 0.7054566740989685
+---------------------------------------
+
+Row 57
+Date       : 2025-11-17 03:10:11+00:00
+Tweet ID   : 1990256124390707371
+Text (ID)  : MBG hadir sebagai langkah konkret membangun generasi sehat. Mari kita dukung bersama
+#MBG #DukungMBG #IndonesiaEmas2045 https://t.co/6iZtkscO1k
+Sentiment  : positive
+Prob       : 0.708459198474884
+---------------------------------------
+
+Row 58
+Date       : 2025-11-17 03:10:16+00:00
+Tweet ID   : 1990256144561099151
+Text (ID)  : MBG hadir sebagai langkah konkret membangun generasi sehat. Mari kita dukung bersama
+#MBG #DukungMBG #IndonesiaEmas2045 https://t.co/BXHZnUDJMs
+Sentiment  : positive
+Prob       : 0.7172437906265259
+---------------------------------------
+
+Row 59
+Date       : 2025-11-17 03:10:21+00:00
+Tweet ID   : 1990256164970623014
+Text (ID)  : MBG hadir sebagai langkah konkret membangun generasi sehat. Mari kita dukung bersama
+#MBG #DukungMBG #IndonesiaEmas2045 https://t.co/HNMTU4DScM
+Sentiment  : positive
+Prob       : 0.718196451663971
+---------------------------------------
+
+Row 60
+Date       : 2025-11-17 03:20:19+00:00
+Tweet ID   : 1990258671838957726
+Text (ID)  : Program MBG bukan sekadar pembagian makanan bergizi di banyak daerah seperti Sumba Barat Daya, kehadirannya jadi motivasi baru bagi siswa untuk tetap hadir dan semangat belajar. Ketika asupan gizi terpenuhi, kesempatan mereka untuk tumbuh, belajar, jadi semakin besar. #MBG https://t.co/Qo7jlAWQJr
+Sentiment  : positive
+Prob       : 0.6636713147163391
+---------------------------------------
+
+Row 61
+Date       : 2025-11-17 03:27:19+00:00
+Tweet ID   : 1990260436311343204
+Text (ID)  : Danantara Disebut Anggarkan Rp 20 Triliun Bangun Peternakan Ayam untuk MBG
+
+Baca selengkapnya: https://t.co/cSDOb29asa
+
+~RKD #Danantara #MBG #Ayam
+Sentiment  : neutral
+Prob       : 0.6925433278083801
+---------------------------------------
+
+Row 62
+Date       : 2025-11-17 03:34:00+00:00
+Tweet ID   : 1990262117686280291
+Text (ID)  : Pengangguran Sumsel turun ke 3,69% (Agustus 2025)!
+Ekonom menilai geliat pembangunan infrastruktur, properti, dan program MBG ikut membuka peluang kerja baru serta meningkatkan serapan tenaga kerja.
+MBG bukan sekadar program gizi—tapi penggerak ekonomi lokal. 
+#MBG https://t.co/KMoufhTs1J
+Sentiment  : positive
+Prob       : 0.534173309803009
+---------------------------------------
+
+Row 63
+Date       : 2025-11-17 03:34:32+00:00
+Tweet ID   : 1990262249278337147
+Text (ID)  : Program MBG bukan hanya memberi makan gratis—tapi membuka peluang besar bagi kebangkitan industri susu nasional.
+Dengan jutaan penerima manfaat, konsumsi susu anak-anak Indonesia mulai bergerak naik!
+#MBG https://t.co/5rsxIcZxp5
+Sentiment  : positive
+Prob       : 0.8234952092170715
+---------------------------------------
+
+Row 64
+Date       : 2025-11-17 03:40:13+00:00
+Tweet ID   : 1990263679611457950
+Text (ID)  : Coba liat tu #MBG Surabaya atau di Bangkok.. 
+Yekali area Silom atau Khao San. https://t.co/7GJXjWLAt3
+Sentiment  : neutral
+Prob       : 0.7926884889602661
+---------------------------------------
+
+Row 65
+Date       : 2025-11-17 03:44:29+00:00
+Tweet ID   : 1990264753458164062
+Text (ID)  : Vibes #MBG simple,jadi versi terbaik tanpa flex. https://t.co/im4QNt2Ri3
+Sentiment  : neutral
+Prob       : 0.5944370031356812
+---------------------------------------
+
+Row 66
+Date       : 2025-11-17 03:47:23+00:00
+Tweet ID   : 1990265484110168558
+Text (ID)  : Program MBG bukan hanya menghadirkan gizi untuk anak-anak, tapi juga membuka peluang besar bagi bangkitnya susu sapi nasional. Dengan meningkatnya konsumsi susu sekolah, industri susu lokal ikut terdorong tumbuh lebih kuat dan mandiri. 
+#MBG  #GiziAnak #BanggaProdukLokal https://t.co/O7kfuMBgEl
+Sentiment  : positive
+Prob       : 0.723699152469635
+---------------------------------------
+
+Row 67
+Date       : 2025-11-17 03:48:13+00:00
+Tweet ID   : 1990265693582000402
+Text (ID)  : Anak-anak di Sumba Barat Daya tetap semangat bersekolah karena MBG memberikan mereka energi, harapan, dan kebahagiaan setiap hari. Program ini bukan hanya soal makanan, tapi tentang masa depan yang lebih cerah. 🌟
+#MBG #AnakIndonesia #GiziBaikMasaDepanCerah https://t.co/XDo1dzFW0V
+Sentiment  : positive
+Prob       : 0.8128992319107056
+---------------------------------------
+
+Row 68
+Date       : 2025-11-17 03:52:16+00:00
+Tweet ID   : 1990266713318039953
+Text (ID)  : BPS Catat Harga Telur Ayam Ras Tembus Rp31.646 per Kg, Dipicu Program MBG 
+https://t.co/ymqsPwIxTs
+#BPS #MBG #inflasi #telurayamras #bitvonline
+Sentiment  : neutral
+Prob       : 0.7187771797180176
+---------------------------------------
+
+Row 69
+Date       : 2025-11-17 03:54:14+00:00
+Tweet ID   : 1990267209407696911
+Text (ID)  : Meski tak fit, siswa di Sumba Barat Daya tetap masuk sekolah karena tak ingin melewatkan menu MBG yang mereka anggap sangat berharga. Program ini bukan hanya mengenyangkan, tapi juga meningkatkan semangat belajar anak-anak setiap hari #mbg https://t.co/SHtVJpBVUi
+Sentiment  : positive
+Prob       : 0.7545143961906433
+---------------------------------------
+
+Row 70
+Date       : 2025-11-17 04:03:14+00:00
+Tweet ID   : 1990269475183358279
+Text (ID)  : Investigasi menyeluruh dilakukan agar layanan makanan tetap aman, bersih, dan berkualitas.
+#MBG #PengawasanKetat #GiziUntukBangsa https://t.co/F0N40Iq5G6
+Sentiment  : positive
+Prob       : 0.48729750514030457
+---------------------------------------
+
+Row 71
+Date       : 2025-11-17 05:41:33+00:00
+Tweet ID   : 1990294217231642717
+Text (ID)  : Mari dukung Program Makan bergizi Gratis #mbg https://t.co/Vc5yxEEcMN
+Sentiment  : neutral
+Prob       : 0.5088435411453247
+---------------------------------------
+
+Row 72
+Date       : 2025-11-17 05:41:37+00:00
+Tweet ID   : 1990294231316131886
+Text (ID)  : Mari dukung Program Makan bergizi Gratis #mbg https://t.co/7o3mZzQdrA
+Sentiment  : neutral
+Prob       : 0.507874608039856
+---------------------------------------
+
+Row 73
+Date       : 2025-11-17 05:41:40+00:00
+Tweet ID   : 1990294244180050245
+Text (ID)  : Mari dukung Program Makan bergizi Gratis #mbg https://t.co/XAFpBr7hiK
+Sentiment  : neutral
+Prob       : 0.48328033089637756
+---------------------------------------
+
+Row 74
+Date       : 2025-11-17 05:41:43+00:00
+Tweet ID   : 1990294257580781635
+Text (ID)  : Mari dukung Program Makan bergizi Gratis #mbg https://t.co/fY80pYdfcZ
+Sentiment  : neutral
+Prob       : 0.5290859937667847
+---------------------------------------
+
+Row 75
+Date       : 2025-11-17 05:41:46+00:00
+Tweet ID   : 1990294269727564058
+Text (ID)  : Mari dukung Program Makan bergizi Gratis #mbg https://t.co/M76WBppzpj
+Sentiment  : neutral
+Prob       : 0.5024601221084595
+---------------------------------------
+
+Row 76
+Date       : 2025-11-17 05:41:52+00:00
+Tweet ID   : 1990294296189435919
+Text (ID)  : Mari dukung Program Makan bergizi Gratis #mbg https://t.co/MgVh9L5e7N
+Sentiment  : neutral
+Prob       : 0.4921884536743164
+---------------------------------------
+
+Row 77
+Date       : 2025-11-17 05:41:55+00:00
+Tweet ID   : 1990294309615321566
+Text (ID)  : Mari dukung Program Makan bergizi Gratis #mbg https://t.co/2fa4fB6K7u
+Sentiment  : neutral
+Prob       : 0.4942079186439514
+---------------------------------------
+
+Row 78
+Date       : 2025-11-17 05:41:58+00:00
+Tweet ID   : 1990294322181464476
+Text (ID)  : Mari dukung Program Makan bergizi Gratis #mbg https://t.co/3OmD6yHvQd
+Sentiment  : neutral
+Prob       : 0.5014247894287109
+---------------------------------------
+
+Row 79
+Date       : 2025-11-17 05:42:01+00:00
+Tweet ID   : 1990294334735065424
+Text (ID)  : Mari dukung Program Makan bergizi Gratis #mbg https://t.co/crQfbkURZh
+Sentiment  : neutral
+Prob       : 0.5024274587631226
+---------------------------------------
+
+Row 80
+Date       : 2025-11-17 05:42:07+00:00
+Tweet ID   : 1990294356394475628
+Text (ID)  : Mari dukung Program Makan bergizi Gratis #mbg https://t.co/zA0VrUgYiR
+Sentiment  : neutral
+Prob       : 0.5028911828994751
+---------------------------------------
+
+Row 81
+Date       : 2025-11-17 06:00:08+00:00
+Tweet ID   : 1990298891661480261
+Text (ID)  : Program Makan Bergizi Gratis (MBG) kini tidak hanya menyasar para siswa. Terbaru melalui Kementerian Sosial (Kemensos) program ini akan diberikan kepada penyandang disabilitas dan lansia.
+Selengkapnya https://t.co/pYVhxycDlv
+
+__
+#Vivacoid #MBG #Lansia #Kemensos https://t.co/uyr5M8stFk
+Sentiment  : neutral
+Prob       : 0.536132276058197
+---------------------------------------
+
+Row 82
+Date       : 2025-11-17 06:04:12+00:00
+Tweet ID   : 1990299916208681425
+Text (ID)  : Prabowo Cerita Diteriaki Bocil yang Protes Belum Terima MBG
+
+Baca selengkapnya: https://t.co/VKgaRuzJy8
+
+~RKD #Prabowo #Bocil #MBG
+Sentiment  : negative
+Prob       : 0.48118677735328674
+---------------------------------------
+
+Row 83
+Date       : 2025-11-17 06:09:10+00:00
+Tweet ID   : 1990301165440155804
+Text (ID)  : @blue_berets7 @PemprovJateng #BGN
+@JatimPemprov 
+Ada #KLENIX #SANTET  yg bermain di #MBG atau emang  Pemasok MBG nya yg GAK BERES
+Sentiment  : neutral
+Prob       : 0.6292283535003662
+---------------------------------------
+
+Row 84
+Date       : 2025-11-17 06:28:13+00:00
+Tweet ID   : 1990305958191645181
+Text (ID)  : Menurut kalian apakah Pak Tito kini tak bisa lagi disebut sebagai “orangnya Jokowi”? Share pendapat kalian di kolom komentar ya!
+
+#mendagri #bupati #gubernur #titokarnavian #mbg #prabowo #pinterpolitik https://t.co/nfXfYNJSSP
+Sentiment  : neutral
+Prob       : 0.6230086088180542
+---------------------------------------
+
+Row 85
+Date       : 2025-11-17 06:53:45+00:00
+Tweet ID   : 1990312385186594970
+Text (ID)  : Dukumentasi Senin 17 November 2025
+
+#mbg https://t.co/P83nNJW1uI
+Sentiment  : neutral
+Prob       : 0.9240285158157349
+---------------------------------------
+
+Row 86
+Date       : 2025-11-17 07:02:06+00:00
+Tweet ID   : 1990314488470655205
+Text (ID)  : Jika memiliki juru masak bersertifikat BNSP, kapasitas dapat ditingkatkan hingga 3.000 porsi per hari tanpa menurunkan kualitas gizi maupun keamanan pangan.
+
+#MBG #SPPG #Indonesiagoid #BeritaTerkini #InformasiPublik #BergerakBerdampak #SetahunBerdampak https://t.co/uMyT7VEMDc
+Sentiment  : positive
+Prob       : 0.5080739259719849
+---------------------------------------
+
+Row 87
+Date       : 2025-11-17 07:03:46+00:00
+Tweet ID   : 1990314903899685289
+Text (ID)  : Daftar &amp; Login slotunited Resmi | Situs Slot Gacor Terpercaya link di bio
+
+#MBG | #lastrunKRL | #pembuatkebijakansaya | #TORNADOBYGISELLE | #DigitalisasiPembelajaran | Indonesia Cerdas | Sahabat Sejati Kita | Celine Ajak Umroh | #PelayananPolisi https://t.co/1Y3kOitGW1
+Sentiment  : neutral
+Prob       : 0.618293821811676
+---------------------------------------
+
+Row 88
+Date       : 2025-11-17 07:11:03+00:00
+Tweet ID   : 1990316738047778943
+Text (ID)  : “Kami ingin memastikan bahwa peningkatan kapasitas tidak mengorbankan kualitas gizi dan keamanan pangan,” ujar Wakil Kepala BGN, Nanik Sudaryati Deyang.  
+#MBG #SPPG #Indonesiagoid #BeritaTerkini #InformasiPublik #BergerakBerdampak #SetahunBerdampak https://t.co/uFXEt3WSaO
+Sentiment  : neutral
+Prob       : 0.5261465311050415
+---------------------------------------
+
+Row 89
+Date       : 2025-11-17 07:11:44+00:00
+Tweet ID   : 1990316911478083691
+Text (ID)  : Sejumlah karyawan MBG di Pancawati, Klari–Karawang, menggelar protes akibat dugaan pemotongan gaji dan upah yang tak sebanding dengan jam kerja.
+
+🔗 Baca selengkapnya : https://t.co/FYQEk6QV3J
+
+#karyawan #mbg #protes #gaji #karawang #Khemjira1stFMinJapanR1 Senin Cinta Laura https://t.co/KhD9lR78qK
+Sentiment  : negative
+Prob       : 0.6473321914672852
+---------------------------------------
+
+Row 90
+Date       : 2025-11-17 07:13:28+00:00
+Tweet ID   : 1990317348243620052
+Text (ID)  : Dorong pemenuhan standar program MBG, UIN Malang bersama Dinas Kesehatan Provinsi Jawa Timur menggelar Bimbingan Teknis Halal dan Thayyib.
+#jatim1news #UINMalang #Malang #Jatim #bimtek #halal #MBG #MakanBergiziGratis 
+https://t.co/DEE9wpFZVX
+Sentiment  : neutral
+Prob       : 0.5115384459495544
+---------------------------------------
+
+Row 91
+Date       : 2025-11-17 07:19:43+00:00
+Tweet ID   : 1990318920075796510
+Text (ID)  : Polres Kepulauan Seribu mulai mengoperasikan SPPG Cipinang dan langsung menyalurkan Makan Bergizi Gratis ke SLB Negeri 7 Jakarta. 
+
+Selengkapnya: https://t.co/lc1vDZiFEu
+
+#im_nusantara #updateviral #infoterbaru #jakartahariini #kepulauanseribu #mbg #slb #polri #fyp https://t.co/GZ67AW8l3h
+Sentiment  : neutral
+Prob       : 0.4960317313671112
+---------------------------------------
+
+Row 92
+Date       : 2025-11-17 07:19:53+00:00
+Tweet ID   : 1990318960601178400
+Text (ID)  : Monitoring MBG SPPG Mitra Mandiri di Al Muslimun Nusantara, 3.230 penerima manfaat mendapat menu bergizi lengkap. Kegiatan aman dan lancar. #MBG #SPPG #TelukNibung https://t.co/0iYd5H3cBx
+Sentiment  : positive
+Prob       : 0.7307464480400085
+---------------------------------------
+
+Row 93
+Date       : 2025-11-17 07:37:53+00:00
+Tweet ID   : 1990323489711218992
+Text (ID)  : Prabowo: Brasil Perlu 11 Tahun untuk Beri MBG ke 40 Juta Orang, RI Tak Sampai 1 Tahun
+
+Baca selengkapnya: https://t.co/NIDcTknkI7
+
+~RKD #Prabowo #MBG #Brasil
+Sentiment  : neutral
+Prob       : 0.7501940131187439
+---------------------------------------
+
+Row 94
+Date       : 2025-11-17 07:41:40+00:00
+Tweet ID   : 1990324443508551812
+Text (ID)  : DPRD Ngawi Harap Pengelola SPPG Lebih Terbuka Untuk OPD Lakukan Monitoring https://t.co/YMVShYxacl #DPRDNgawi #MakanBergiziGratis #MBG #monitoringMBG
+Sentiment  : neutral
+Prob       : 0.5242053270339966
+---------------------------------------
+
+Row 95
+Date       : 2025-11-17 08:03:40+00:00
+Tweet ID   : 1990329981772439568
+Text (ID)  : Suara anak dari 12 provinsi ungkap tantangan MBG: rasa, kualitas, ketepatan waktu distribusi. KPAI mendorong evaluasi &amp; pengawasan ketat 
+
+#KPAI #MBG #MakanBergiziGratis #SuaraAnak #AnakIndonesia #PerlindunganAnak 
+
+https://t.co/ARV63uvfYQ
+Sentiment  : positive
+Prob       : 0.601718008518219
+---------------------------------------
+
+Row 96
+Date       : 2025-11-17 08:08:47+00:00
+Tweet ID   : 1990331266705854609
+Text (ID)  : Tanda-tanda gejolak pasokan dan harga pangan akibat program MBG sudah di depan mata. Saat ini, gejolak itu tidak hanya terjadi pada telur dan daging ayam ras, melainkan juga buah dan sayuran.
+
+Baca di https://t.co/Z6bhYbEJRg ➡️ https://t.co/BZBzjw7fpI
+
+#MBG #AdadiKompas https://t.co/AIQy6n9GYQ
+Sentiment  : neutral
+Prob       : 0.6912474632263184
+---------------------------------------
+
+Row 97
+Date       : 2025-11-17 08:36:49+00:00
+Tweet ID   : 1990338324654162190
+Text (ID)  : Dua #SPPG di Kota Malang Liburkan Operasional Sementara Waktu, Begini Klarifikasinya https://t.co/XuwxxIgeQd #DispangtanKotaMalang #klarifikasi #KotaMalang #liburoperasional #MBG
+Sentiment  : neutral
+Prob       : 0.6279932260513306
+---------------------------------------
+
+Row 98
+Date       : 2025-11-17 08:53:48+00:00
+Tweet ID   : 1990342597945311463
+Text (ID)  : Bersama MBG, kita wujudkan langkah nyata untuk pembangunan yang lebih inklusif, modern, dan berdampak bagi seluruh masyarakat. Saatnya bergerak maju dan menghadirkan perubahan yang benar-benar dirasakan!”
+Hashtag:
+#DukungMBG #MBGMajuBersama #UntukIndonesiaLebihBaik #MBG https://t.co/hiOocanwHU
+Sentiment  : positive
+Prob       : 0.7181272506713867
+---------------------------------------
+
+Row 99
+Date       : 2025-11-17 08:53:55+00:00
+Tweet ID   : 1990342624071602548
+Text (ID)  : Bersama MBG, kita wujudkan langkah nyata untuk pembangunan yang lebih inklusif, modern, dan berdampak bagi seluruh masyarakat. Saatnya bergerak maju dan menghadirkan perubahan yang benar-benar dirasakan!”
+Hashtag:
+#DukungMBG #MBGMajuBersama #UntukIndonesiaLebihBaik #MBG https://t.co/gssmflLbBg
+Sentiment  : positive
+Prob       : 0.7158762812614441
+---------------------------------------
+
+Row 100
+Date       : 2025-11-17 08:54:02+00:00
+Tweet ID   : 1990342656632017256
+Text (ID)  : Bersama MBG, kita wujudkan langkah nyata untuk pembangunan yang lebih inklusif, modern, dan berdampak bagi seluruh masyarakat. Saatnya bergerak maju dan menghadirkan perubahan yang benar-benar dirasakan!”
+Hashtag:
+#DukungMBG #MBGMajuBersama #UntukIndonesiaLebihBaik #MBG https://t.co/yarNG2gJyv
+Sentiment  : positive
+Prob       : 0.7130568623542786
+---------------------------------------
+
