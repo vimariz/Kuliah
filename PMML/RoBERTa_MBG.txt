@@ -1,0 +1,417 @@
+Tweet Analysis Output
+=======================================
+
+Row 1
+Text       : kepala bgn ungkap penggunaan nitrin tinggi penyebab utama keracunan mbg
+Sentiment  : negative
+Prob       : 0.5709260702133179
+---------------------------------------
+
+Row 2
+Text       : program mbg dorong pertumbuhan umkm tempe permintaan kedelai simak selengkapnya baca artikel lainnya
+Sentiment  : neutral
+Prob       : 0.8214987516403198
+---------------------------------------
+
+Row 3
+Text       : harta kekayaan cucun ahmad wakil ketua dpr pernah sebut mbg tak perlu ahli gizi
+Sentiment  : neutral
+Prob       : 0.8266671895980835
+---------------------------------------
+
+Row 4
+Text       : polemik mbg makin panas ahli gizi menyampaikan fakta teknis malah dipotong dibentak dibilang arogan setelah viral cucun klarifikasi bahwa maksudnya soal keterbatasan tenaga ahli tapi soal etika netizen sudah keburu ngamuk error
+Sentiment  : negative
+Prob       : 0.5472030639648438
+---------------------------------------
+
+Row 5
+Text       : presiden brazil memerlukan 11 tahun mencapai 40juta belum sampai 12 bulan udah 44 juta penerima
+Sentiment  : neutral
+Prob       : 0.6861703991889954
+---------------------------------------
+
+Row 6
+Text       : mbg dongkrak permintaan kedelai umkm tempe tumbuh pesat
+Sentiment  : neutral
+Prob       : 0.871511697769165
+---------------------------------------
+
+Row 7
+Text       : lebih mahal dapur umum dpr pertanyakan anggaran pembangunan sppg senilai rp1 97 triliun
+Sentiment  : neutral
+Prob       : 0.563383162021637
+---------------------------------------
+
+Row 8
+Text       : berkelanjutan berdaya saing melalui pembangunan berfokus manusia gizi
+Sentiment  : neutral
+Prob       : 0.8403146862983704
+---------------------------------------
+
+Row 9
+Text       : viral ucapkan mbg tak butuh ahli gizi waket dpr cucun ahmad akhirnya meminta maaf melakukan klarifikasi baca selengkapnya
+Sentiment  : neutral
+Prob       : 0.75433349609375
+---------------------------------------
+
+Row 10
+Text       : berita2 bulan oktober yg cukup menarik dibahas
+Sentiment  : positive
+Prob       : 0.9514982104301453
+---------------------------------------
+
+Row 11
+Text       : orang orang sekitar tiba tiba sppg
+Sentiment  : neutral
+Prob       : 0.7576120495796204
+---------------------------------------
+
+Row 12
+Text       : achmad ru yat dorong kehadiran ahli gizi setiap sppg sukseskan program makan bergizi gratis
+Sentiment  : neutral
+Prob       : 0.6208524107933044
+---------------------------------------
+
+Row 13
+Text       : gelar pertemuan dpr bgn persagi sepakat tambah ahli gizi program mbg
+Sentiment  : neutral
+Prob       : 0.8073406219482422
+---------------------------------------
+
+Row 14
+Text       : maksudnya apa apakah tujuan mbg diberikan uang embel2 hadiah kecil2an ompeng sorry tapi miris makin gila dijadikan konten pula heyyy
+Sentiment  : neutral
+Prob       : 0.6866064667701721
+---------------------------------------
+
+Row 15
+Text       : tanggapi pernyataan cucun soal tak perlu ahli gizi tegaskan perlu standar kompetensi
+Sentiment  : neutral
+Prob       : 0.5804322957992554
+---------------------------------------
+
+Row 16
+Text       : 41 dapur mbg milik anak dewan apa salahnya kaya makin kaya orde baru mbg
+Sentiment  : neutral
+Prob       : 0.4807552397251129
+---------------------------------------
+
+Row 17
+Text       : ramai disorot pernyataan bahwa mbg tak perlu ahli gizi menuai protes termasuk dr tan menegaskan pentingnya tenaga profesional gt gt
+Sentiment  : neutral
+Prob       : 0.7602558732032776
+---------------------------------------
+
+Row 18
+Text       : pentingnya ahli gizi program mbg baca selengkapnya rkd
+Sentiment  : neutral
+Prob       : 0.7202327251434326
+---------------------------------------
+
+Row 19
+Text       : cucun minta maaf soal ucapan soal ahli gizi mbg waket dpr ri akui tak bermaksud remehkan profesi
+Sentiment  : negative
+Prob       : 0.6927242279052734
+---------------------------------------
+
+Row 20
+Text       : prabowo tegaskan mbg harus bebas penyimpangan uang rakyat
+Sentiment  : neutral
+Prob       : 0.8504328727722168
+---------------------------------------
+
+Row 21
+Text       : presiden prabowo penerima mbg kini tembus 44 juta orang simak selengkapnya baca artikel lainnya
+Sentiment  : neutral
+Prob       : 0.8117244243621826
+---------------------------------------
+
+Row 22
+Text       : melalui program makan bergizi gratis setiap anak indonesia dijamin mendapatkan asupan sehat seimbang setiap harinya
+Sentiment  : positive
+Prob       : 0.8552985191345215
+---------------------------------------
+
+Row 23
+Text       : yakin semua pasti ingin terbaik mbg manfaatnya jalan terus
+Sentiment  : positive
+Prob       : 0.8339653611183167
+---------------------------------------
+
+Row 24
+Text       : program makan bergizi bukan hanya soal menyediakan makanan skala besar program membutuhkan tata kelola kuat tenaga kompeten standar jelas layanan aman tepat sasaran
+Sentiment  : neutral
+Prob       : 0.5170729756355286
+---------------------------------------
+
+Row 25
+Text       : program makan bergizi gratis menjamin anak indonesia mendapatkan asupan sehat seimbang
+Sentiment  : positive
+Prob       : 0.8037561774253845
+---------------------------------------
+
+Row 26
+Text       : kasus oknum tni diduga peras sopir angkutan gowa ngaku polisi minta rp 50 juta ngerii nyooooo
+Sentiment  : neutral
+Prob       : 0.7519881725311279
+---------------------------------------
+
+Row 27
+Text       : program mbg tidak hanya meningkatkan kualitas gizi anak ibu hamil pekerja tetapi menggerakkan ekonomi rakyat membangun sinergi kesejahteraan bangsa
+Sentiment  : positive
+Prob       : 0.8347206115722656
+---------------------------------------
+
+Row 28
+Text       : mbg koperasi desa penggerak ekonomi baru membuka banyak lapangan kerja
+Sentiment  : positive
+Prob       : 0.9050893783569336
+---------------------------------------
+
+Row 29
+Text       : wakil ketua dpr ri cucun ahmad syamsurijal menyampaikan permohonan maaf terkait ucapannya tentang makan bergizi gratis mbg tidak memerlukan ahli gizi
+Sentiment  : neutral
+Prob       : 0.5086951851844788
+---------------------------------------
+
+Row 30
+Text       : pak bhabin monitoring distribusi mbg penerima manfaat pastikan mbg sampai aman siswa
+Sentiment  : neutral
+Prob       : 0.7902882695198059
+---------------------------------------
+
+Row 31
+Text       : program gizi anak papua diganggu opm tidak bisa letkol lenis kogoya stafsus menhan tegaskan statement sebby sambom pemikiran sesat tonton full beliau sendiri akan turun tangan jika sebby terus sebar hoax
+Sentiment  : negative
+Prob       : 0.8894743919372559
+---------------------------------------
+
+Row 32
+Text       : updatee mbg wenakkk babgettt telor ny pakee bumbu apaa gtw 100 10
+Sentiment  : neutral
+Prob       : 0.8699692487716675
+---------------------------------------
+
+Row 33
+Text       : memang arogan banyak keracunan sekolah lepas tanggung jawab menyalahkan guru yg tidak tahu menahu darimana makanan dimasak bapak yg dimaksud wakil dpr
+Sentiment  : negative
+Prob       : 0.9105625748634338
+---------------------------------------
+
+Row 34
+Text       : blunder pernyataan cucun soal tak perlu ahli gizi program mbg memicu amarah ahli baca selengkapnya rkd
+Sentiment  : neutral
+Prob       : 0.5297723412513733
+---------------------------------------
+
+Row 35
+Text       : keluhan pekerja dapur mencuat setelah ig bgn dipenuhi protes soal gaji terlambat dani pengawas dapur jatim berstatus magang bekerja lebih 20 jam hari tanpa kontrak tertulis gaji dijanjikan tak kunjung cair hingga harus narik ojol demi bertahan hidup
+Sentiment  : negative
+Prob       : 0.6188960075378418
+---------------------------------------
+
+Row 36
+Text       : ga punya orang dalem pasti nangis dipojokan
+Sentiment  : neutral
+Prob       : 0.5170892477035522
+---------------------------------------
+
+Row 37
+Text       : produsen tatakan tungku kompor mbg sppg wajib tahu
+Sentiment  : neutral
+Prob       : 0.8593459725379944
+---------------------------------------
+
+Row 38
+Text       : bhabinkamtibmas polsek batangtoru melakukan monitoring penyaluran makanan bergizi gratis sds faza azkia hutaraja memastikan program berjalan tepat sasaran diterima baik oleh siswa kecamatan muara batangtoru
+Sentiment  : neutral
+Prob       : 0.6045486330986023
+---------------------------------------
+
+Row 39
+Text       : presiden prabowo sebut keracunan mbg seperti sakit perut biasa tapi minta pengelola tak main main
+Sentiment  : negative
+Prob       : 0.7051281332969666
+---------------------------------------
+
+Row 40
+Text       : penerima manfaat mbg tembus 44 juta prabowo sebut prestasi dunia
+Sentiment  : positive
+Prob       : 0.6813024878501892
+---------------------------------------
+
+Row 41
+Text       : kan
+Sentiment  : neutral
+Prob       : 0.5905367136001587
+---------------------------------------
+
+Row 42
+Text       : melalui program makan bergizi gratis setiap anak indonesia dijamin mendapatkan asupan sehat seimbang setiap harinya bukan sekadar soal makan tentang menciptakan generasi tumbuh kuat cerdas siap menghadapi masa depan
+Sentiment  : positive
+Prob       : 0.9184020161628723
+---------------------------------------
+
+Row 43
+Text       : bgn buka call center 127 beroperasi 24 jam layani aduan masyarakat soal mbg baca selengkapnya rkd
+Sentiment  : negative
+Prob       : 0.6314501762390137
+---------------------------------------
+
+Row 44
+Text       : prabowo menegaskan mbg harus berjalan tanpa penyimpangan memakai uang rakyat menargetkan 82 9 juta penerima meski distribusi cepat ia minta pengawasan diperketat manfaatnya benar benar sampai anak ibu hamil seluruh indonesia
+Sentiment  : neutral
+Prob       : 0.7845054864883423
+---------------------------------------
+
+Row 45
+Text       : pernyataan tegas menunjukkan komitmen kuat pemerintah terus memperbaiki layanan mbg memastikan keamanan pangan menghadirkan manfaat nyata masyarakat
+Sentiment  : positive
+Prob       : 0.8969511985778809
+---------------------------------------
+
+Row 46
+Text       : makan bergizi gratis tingkatkan kualitas gizi anak gerakkan ekonomi rakyat bangun sinergi kesejahteraan bangsa indonesia lebih baik
+Sentiment  : positive
+Prob       : 0.6661516427993774
+---------------------------------------
+
+Row 47
+Text       : wakil ketua dpr ri cucun ahmad syamsurijal menyampaikan permohonan maaf usai menyatakan mbg tak memerlukan ahli gizi
+Sentiment  : neutral
+Prob       : 0.8725069165229797
+---------------------------------------
+
+Row 48
+Text       : makanan bergizi tersaji setiap hari sedang membantu generasi muda tumbuh lebih sehat percaya diri
+Sentiment  : positive
+Prob       : 0.847301185131073
+---------------------------------------
+
+Row 49
+Text       : kerja nyata pemerintah dgn program mbg bertujuan atasi stunting meningkatkan kualitas gizi anak indonesia mbg anak sekolah balita ibu hamil menyusui apel pagi ahli gizi
+Sentiment  : neutral
+Prob       : 0.6119858622550964
+---------------------------------------
+
+Row 50
+Text       : program mbg tidak membutuhkan ahli gizi bahkan cucun menyatakan bahwa lulusan sma dapat menggantikan posisi mengikuti pelatihan sertifikasi selama tiga bulan link senin selasa
+Sentiment  : neutral
+Prob       : 0.816267728805542
+---------------------------------------
+
+Row 51
+Text       : menu mbg today wkwk
+Sentiment  : neutral
+Prob       : 0.8350654244422913
+---------------------------------------
+
+Row 52
+Text       : gerindra semprot cucun usai sebut anak muda arogan amp tak perlu ahli gizi mbg bahaya ngomongnya
+Sentiment  : negative
+Prob       : 0.7626370787620544
+---------------------------------------
+
+Row 53
+Text       : parah petani yg tidak tahu apa apa kena imbasnya
+Sentiment  : negative
+Prob       : 0.9042719602584839
+---------------------------------------
+
+Row 54
+Text       : program mbg membantu memenuhi kebutuhan gizi harian siswa kalteng
+Sentiment  : neutral
+Prob       : 0.6652334928512573
+---------------------------------------
+
+Row 55
+Text       : program makan bergizi gratis siswa lebih fokus
+Sentiment  : positive
+Prob       : 0.6961418986320496
+---------------------------------------
+
+Row 56
+Text       : program mbg papua tingkatkan gizi anak amp sejahterakan masyarakat
+Sentiment  : positive
+Prob       : 0.5505381226539612
+---------------------------------------
+
+Row 57
+Text       : bangga bersama
+Sentiment  : positive
+Prob       : 0.975337564945221
+---------------------------------------
+
+Row 58
+Text       : fokus kesehatan masa depan bangsa bapak prabowo subianto berkomitmen penuh terhadap program mbg makan bergizi gratis
+Sentiment  : positive
+Prob       : 0.7358561158180237
+---------------------------------------
+
+Row 59
+Text       : viral cucun ahmad sebut mbg tak perlu ahli gizi kronologi hingga permintaan maaf wakil ketua dpr
+Sentiment  : neutral
+Prob       : 0.6024551391601562
+---------------------------------------
+
+Row 60
+Text       : program mbg bukan sekadar makan gratis tetapi investasi gizi masa depan bangsa dapur inklusif hingga zonasi solo konsisten mbg hadir membentuk generasi sehat cerdas berdaya saing
+Sentiment  : neutral
+Prob       : 0.5039929151535034
+---------------------------------------
+
+Row 61
+Text       : menjadi wakil rakyat otaknya harus bergizi
+Sentiment  : neutral
+Prob       : 0.5023659467697144
+---------------------------------------
+
+Row 62
+Text       : investasi masa depan dimulai generasi sehat program makan bergizi gratis anak anak indonesia adalah langkah nyata memastikan tumbuh baik siap menghadapi tantangan
+Sentiment  : positive
+Prob       : 0.8791518211364746
+---------------------------------------
+
+Row 63
+Text       : menu mbg sd adikku pagi 18 nov 2025 8 30
+Sentiment  : neutral
+Prob       : 0.9235692024230957
+---------------------------------------
+
+Row 64
+Text       : dua sd negeri tambora jakarta barat ratusan siswa kini bisa menikmati makan gratis setiap hari bukan program pemerintah melainkan inisiatif bertajuk makan bahagia gratis mbg ag
+Sentiment  : positive
+Prob       : 0.8124961256980896
+---------------------------------------
+
+Row 65
+Text       : kepala badan gizi nasional bgn dadan hindayana menyebut satu yayasan mitra makan bergizi gratis mbg maksimal mengelola 10 dapur satuan pelayanan pemenuhan gizi sppg provinsi sama baca
+Sentiment  : neutral
+Prob       : 0.53819739818573
+---------------------------------------
+
+Row 66
+Text       : wabup deli serdang resmikan dapur sppg ujung rambe dorong gizi anak ekonomi lokal
+Sentiment  : neutral
+Prob       : 0.8669077754020691
+---------------------------------------
+
+Row 67
+Text       : wakil ketua dpr cucun sebut anak muda arogan hingga klaim tak perlu ahli gizi program mbg
+Sentiment  : negative
+Prob       : 0.6307225227355957
+---------------------------------------
+
+Row 68
+Text       : makan bergizi gratis bukan hanya memenuhi gizi anak tetapi menggerakkan ekonomi rakyat melalui penyerapan produk lokal membangun ekosistem inklusif menghadirkan manfaat berkelanjutan kesejahteraan masyarakat
+Sentiment  : positive
+Prob       : 0.9033660292625427
+---------------------------------------
+
+Row 69
+Text       : wakil ketua dpr cucun ahmad syamsurijal akhirnya menyampaikan permintaan maaf setelah pernyataannya soal tidak perlu ahli gizi program makan bergizi gratis mbg viral menuai kritik luas ag
+Sentiment  : neutral
+Prob       : 0.6329136490821838
+---------------------------------------
+
